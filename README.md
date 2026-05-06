@@ -1,1 +1,1 @@
-Requires RB on the object to be moved around. Using input actions editor from unity requires set up og push pull and hold.
+Requires RB on the object to be moved around. Using input actions editor from unity requires set up of push, pull and hold. Either take from this player input or add to your own. Warning it may overide if you have already modiufied the input controler.
